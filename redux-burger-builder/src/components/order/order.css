@@ -1,0 +1,14 @@
+.order-Div{
+    box-sizing: border-box;
+    width:80%;
+    text-align: justify;
+    box-shadow: 1.5px 2px #eee;
+    border : 1px solid #ccc;
+    background-color: #fff;
+    padding:2%;
+    margin:20px auto;
+}
+
+.personal-info,.order-details{
+    text-decoration-style: none;
+}

@@ -1,0 +1,8 @@
+.search-bar{
+
+    border-radius: 5px;
+    line-height:20px;
+    padding:1%;
+    text-align:center;
+    background-blend-mode: lighten;
+}

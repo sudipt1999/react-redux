@@ -1,0 +1,36 @@
+.form-box{
+    box-sizing: border-box;
+    width: 100%;
+    margin:13px 0;
+    text-align: left;
+}
+
+.label{
+    font-size:1.4rem;
+    color:rgb(63, 60, 60);
+    display: block;
+}
+
+.input{
+    display: block;
+    outline:none;
+    border : 1px solid rgb(63, 60, 60);
+    border-radius:5px;
+    height:20px;
+    width:100%;
+    text-align: center;
+}
+
+.form{
+    width:300px;
+    padding:2%;
+    margin:auto auto;
+    text-align:left;
+    border : 1px solid #000;
+    box-shadow :1px 2px rgb(66, 59, 59);
+}
+
+.error-msg{
+    color:red;
+    font-weight: bolder;
+}
